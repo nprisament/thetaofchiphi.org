@@ -1,0 +1,32 @@
+div.small-border {
+    padding: 2rem !important;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.frame {
+    height: 100%;      /* equals max image height */
+    width: 100%;
+    white-space: nowrap;
+    
+    text-align: center; margin: 1em 0;
+}
+
+.showcase-text-custom {
+	padding-left: 3rem !important;
+	padding-right: 3rem !important;
+	padding-bottom: 3rem !important;
+}
+
+@media (min-width: 768px) {
+	.showcase-text-custom {
+	    padding-top: 3rem !important;
+	    padding-left: 7rem !important;
+	    padding-right: 7rem !important;
+	    padding-bottom: 7rem !important;
+	}
+}

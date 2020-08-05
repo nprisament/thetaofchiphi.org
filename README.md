@@ -1,4 +1,4 @@
-# [thetaofchiphi.org](thetaofchiphi.org)
+# [thetaofchiphi.org](http://www.thetaofchiphi.org/)
 The Theta Chapter of Chi Phi's public website
 
 ## Helpful commands for development ##
@@ -7,4 +7,4 @@ The Theta Chapter of Chi Phi's public website
 - Archive a File: `zip -r [DESTINATION].zip [FOLDER]`  
 - Un-Archive a File: `unzip [FILE NAME].zip`
 
-*Note: **do not** change the address of the page [/alumni.php](thetaofchiphi.org/alumni.php) because that is linked to by the National Website*
+*Note: **do not** change the address of the page [/alumni.php](http://www.thetaofchiphi.org/alumni.php) because that is linked to by the National Website*
