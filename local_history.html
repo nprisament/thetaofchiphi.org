@@ -79,7 +79,7 @@
         <a class="nav-link" href="https://www.stbaldricks.org/events/RPI2020">PHILANTHROPY</a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="http://198.199.76.63/">WIKI</a>
+        <a class="nav-link" href="http://wiki.thetaofchiphi.org/">WIKI</a>
       </li>
     </ul>
   </div>
