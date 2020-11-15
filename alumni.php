@@ -119,13 +119,13 @@
                 <a href="newsletter/fall2018.pdf">Fall 2018</a>
               </li>
               <li>
-                <a href="newsletter/spring2019.pdf">Spring 2018</a>
+                <a href="newsletter/spring2018.pdf">Spring 2018</a>
               </li>
               <li>
-                <a href="newsletter/fall2018.pdf">Fall 2017</a>
+                <a href="newsletter/fall2017.pdf">Fall 2017</a>
               </li>  
               <li>
-                <a href="newsletter/spring2019.pdf">Spring 2017</a>
+                <a href="newsletter/spring2017.pdf">Spring 2017</a>
               </li>
             </ul>
             Sign up to recieve these Newsletters <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlsaU5q1f-KKd3c6MT0mA5SpJHoFE5SYQcKuTuYjLv_oybIw/viewform">here</a>
