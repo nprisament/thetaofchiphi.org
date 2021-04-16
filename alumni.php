@@ -131,13 +131,15 @@
                 <a href="newsletter/spring2017.pdf">Spring 2017</a>
               </li>
             </ul>
-            Sign up to recieve these Newsletters <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlsaU5q1f-KKd3c6MT0mA5SpJHoFE5SYQcKuTuYjLv_oybIw/viewform">here</a>
           </p>
           <br />
           <p class="lead mb-0">
             Attend the next Alumni Weekend at the House!
             <br />
             Hosted every semester and anounced via email.
+          </p>
+          <p class="lead mb-0">
+            Send us your updated contact information; make sure we can reach out to you and you will receive updates from the brotherhood like these Alumni Newsletters <a href="https://forms.gle/oqgntePYptyuAHMX6">here</a>!
           </p>
           <br />
           <p class="lead mb-0">
