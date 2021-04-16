@@ -138,8 +138,9 @@
             <br />
             Hosted every semester and anounced via email.
           </p>
+          <br />
           <p class="lead mb-0">
-            Send us your updated contact information; make sure we can reach out to you and you will receive updates from the brotherhood like these Alumni Newsletters <a href="https://forms.gle/oqgntePYptyuAHMX6">here</a>!
+            Send us your updated contact information <a href="https://forms.gle/oqgntePYptyuAHMX6">here</a>! We will make sure you will receive updates from the brotherhood like these Alumni Newsletters.
           </p>
           <br />
           <p class="lead mb-0">
