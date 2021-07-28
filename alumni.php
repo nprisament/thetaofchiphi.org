@@ -110,6 +110,9 @@
             Old Alumni Newsletters: <br />
             <ul>
               <li>
+                <a href="newsletter/fall2020.pdf">Fall 2020</a>
+              </li>
+              <li>
                 <a href="newsletter/spring2020.pdf">Spring 2020</a>
               </li>
               <li>
