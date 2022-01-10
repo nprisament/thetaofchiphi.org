@@ -110,6 +110,9 @@
             Old Alumni Newsletters: <br />
             <ul>
               <li>
+                <a href="newsletter/spring2021.pdf">Spring 2021</a>
+              </li>
+              <li>
                 <a href="newsletter/fall2020.pdf">Fall 2020</a>
               </li>
               <li>
@@ -132,6 +135,23 @@
               </li>  
               <li>
                 <a href="newsletter/spring2017.pdf">Spring 2017</a>
+              </li>
+            </ul>
+          </p>
+          <br />
+          <p class="lead mb-0">
+            <b>Chi Phi Chapter Profile</b> <br />
+            Our submissions to the new accreditation system from Rensselaer Polytechnic Institute that contains a concise overview of the Chapter highlighting our accomplishments in the four pillars of Fraternity and Sorority Life at Rensselaer.
+            <br />
+            <ul>
+              <li>
+                <a href="chapter_profile/fall2021.pdf">Fall 2021</a>
+              </li>
+              <li>
+                <a href="chapter_profile/spring2021.pdf">Spring 2021</a>
+              </li>
+              <li>
+                <a href="chapter_profile/fall2020.pdf">Fall 2020</a>
               </li>
             </ul>
           </p>
