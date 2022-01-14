@@ -110,6 +110,9 @@
             Old Alumni Newsletters: <br />
             <ul>
               <li>
+                <a href="newsletter/fall2021.pdf">Fall 2021</a>
+              </li>
+              <li>
                 <a href="newsletter/spring2021.pdf">Spring 2021</a>
               </li>
               <li>
