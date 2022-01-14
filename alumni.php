@@ -139,6 +139,12 @@
               <li>
                 <a href="newsletter/spring2017.pdf">Spring 2017</a>
               </li>
+              <li>
+                <a href="newsletter/fall2016.pdf">Fall 2016</a>
+              </li>  
+              <li>
+                <a href="newsletter/spring2016.pdf">Spring 2016</a>
+              </li>
             </ul>
           </p>
           <br />
