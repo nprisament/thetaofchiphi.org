@@ -189,7 +189,7 @@
     <div class="container">
       <h2 class="mb-5">We are conveniently located right next to campus!</h2>
       <center>
-      <div class="mapouter"><div class="gmap_canvas"><iframe width="800" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=chi%20phi%20at%20rpi&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Werbung: <a href="https://www.jetzt-drucken-lassen.de">jetzt-drucken-lassen.de</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:800px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:800px;}</style></div>
+      <iframe width="800" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=chi%20phi%20at%20rpi&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
     </center>
     </div>
   </section>
@@ -198,23 +198,8 @@
   <section class="call-to-action text-white text-center">
     <div class="overlay"></div>
     <div class="container">
-      <div class="row">
-        <div class="col-xl-9 mx-auto">
-          <h2 class="mb-4">Interested in joining? Sign up for a rush calendar!</h2>
-        </div>
-        <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
-          <form>
-            <div class="form-row">
-              <div class="col-12 col-md-9 mb-2 mb-md-0">
-                <input type="email" class="form-control form-control-lg" placeholder="Enter your email...">
-              </div>
-              <div class="col-12 col-md-3">
-                <button type="submit" class="btn btn-block btn-lg btn-primary">Sign up!</button>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
+      <center>
+      <iframe src='https://app.chapterbuilder.com/forms/2086/view/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NDI0NzU3MTcsIm5iZiI6MTY0MjQ3NTcxNywianRpIjoiZDY0NmExNmEtYjc2MC00YzdhLThmYjMtNDYxYmYwMjgzMGY4IiwiaWRlbnRpdHkiOjIwODYsImZyZXNoIjpmYWxzZSwidHlwZSI6ImFjY2VzcyIsInVzZXJfY2xhaW1zIjp7InR5cGUiOiJmb3JtIn19.nCBKICiOtIMIOA3OB6LcKkAoQmK1WUD9BvUHx2pb9rg' height='500' width='400' frameborder="0" marginheight="0" marginwidth="0"></iframe>
     </div>
   </section>
 
@@ -277,6 +262,7 @@
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="js/main.js"></script>
 
 </body>
 
