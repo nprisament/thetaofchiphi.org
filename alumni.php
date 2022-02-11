@@ -108,7 +108,7 @@
             <b>Theta Chapter Alumni Newsletters</b> <br />
             Access the current Alumni Newsletter <a href="alumni_newsletter.html">here</a>.
             <br />
-            Old Alumni Newsletters: <br />
+            Alumni Newsletters: <br />
             <ul>
               <li>
                 <a href="newsletter/fall2021.pdf">Fall 2021</a>
