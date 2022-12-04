@@ -111,6 +111,9 @@
             Alumni Newsletters: <br />
             <ul>
               <li>
+                <a href="newsletter/fall2022.pdf">Fall 2022</a>
+              </li>
+              <li>
                 <a href="newsletter/spring2022.pdf">Spring 2022</a>
               </li>
               <li>
