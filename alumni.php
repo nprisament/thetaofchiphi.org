@@ -161,6 +161,9 @@
             <br />
             <ul>
               <li>
+                <a href="chapter_profile/2022.pdf">Full Year 2022</a>
+              </li>
+              <li>
                 <a href="chapter_profile/fall2021.pdf">Fall 2021</a>
               </li>
               <li>
