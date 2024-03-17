@@ -72,12 +72,12 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="alumni.php">TAA</a>
           <a class="dropdown-item" href="alumni_donate.html">Capital Campaign</a>
-          <a class="dropdown-item" href="https://contributions.omegafi.com/contributions/product/chi-phi-educational-trust/" target="_blank" rel="noopener noreferrer">Education Trust</a>
+          <a class="dropdown-item" href="https://chiphitrust.org/" target="_blank" rel="noopener noreferrer">Education Trust</a>
           <a class="dropdown-item" href="alumni_newsletter.html" target="_blank" rel="noopener noreferrer">Newsletter</a>
         </div>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="https://www.stbaldricks.org/events/thetaofchiphi" target="_blank" rel="noopener noreferrer">PHILANTHROPY</a>
+        <a class="nav-link" href="https://www.stbaldricks.org/events/RPI2024" target="_blank" rel="noopener noreferrer">PHILANTHROPY</a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="http://wiki.thetaofchiphi.org/">WIKI</a>
