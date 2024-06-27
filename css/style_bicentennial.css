@@ -999,6 +999,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #hotels .hotel-img img {
   transition: 0.3s ease-in-out;
+  width: 100%;
 }
 
 #hotels h3 {
@@ -1306,7 +1307,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #buy-tickets {
-  padding: 60px 0 0 0;
+  padding: 60px 0;
   background: url(../img/Chakett.png) center center no-repeat;
   background-size: cover;
   overflow: hidden;
