@@ -12,7 +12,10 @@ jQuery(document).ready(function ($) {
 		// Resize the iframes when the window is resized
 		$( window ).resize( function () {
 		    $iframes.each( function() {
-		    // Get the parent container&#x27;s width
+				if ($(this).hasClass("no-resize"))
+					return;
+
+				// Get the parent container&#x27;s width
 		        var width = $( this ).parent().width();
 		        $( this ).width( width * .8 )
 		        .height( width * $( this ).data( "ratio" ) *.75);
