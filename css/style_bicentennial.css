@@ -1656,6 +1656,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Responsive Media Queries
 --------------------------------------------------------------*/
 
+@media (max-width: 768px) {
+  .google-form {
+    display: none;
+  }
+}
+
 @media (min-width: 767px) {
   #subscribe input {
     min-width: 400px;
