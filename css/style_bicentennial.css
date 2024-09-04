@@ -1241,6 +1241,53 @@ body.mobile-nav-active #mobile-nav-toggle {
   right: 0;
 }
 
+#banner .speaker {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+#banner .speaker .details {
+  background: rgba(6, 12, 34, 0.76);
+  position: absolute;
+  left: 0;
+  bottom: -30px;
+  right: 0;
+  text-align: center;
+  padding-top: 10px;
+  transition: all 300ms cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+#banner .speaker .details h3 {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+#banner .speaker .details p {
+  color: #fff;
+  font-size: 15px;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+#banner .speaker .details .social {
+  height: 30px;
+}
+
+#banner .speaker .details a {
+  color: #fff;
+}
+
+#banner .speaker .details a:hover {
+  color: #E8112D;
+}
+
+#banner .speaker:hover .details {
+  bottom: 0;
+}
+
 /*--------------------------------------------------------------
 # Subscribe Section
 --------------------------------------------------------------*/
