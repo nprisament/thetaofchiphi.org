@@ -1224,7 +1224,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #banner {
-  padding: 150px;
+  padding-bottom: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 60px;
   background: url(../img/theta.jpg) center center no-repeat;
   background-size: cover;
   overflow: hidden;
