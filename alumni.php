@@ -111,7 +111,7 @@
             Alumni Newsletters: <br />
             <ul>
               <li>
-                <a href="newsletter/spring2024.pdf">Fall 2024</a>
+                <a href="newsletter/spring2024.pdf">Spring 2024</a>
               </li>
               <li>
                 <a href="newsletter/fall2023.pdf">Fall 2023</a>
